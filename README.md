@@ -1,6 +1,6 @@
 # Shadman Mahmood Khan Pathan
 
-**PhD Candidate, Electrical & Computer Engineering — Old Dominion University (expected Fall 2026)**  
+**PhD Candidate in Electrical & Computer Engineering, Old Dominion University. Defense completed November 5, 2026; degree conferral expected December 2026.**  
 **Research and engineering:** trustworthy ML, AI security/evaluation, privacy-preserving learning, biomedical AI, and scalable LLM systems.
 
 I develop **reproducible ML experiments and working software prototypes**, with particular attention to when model improvements, uncertainty estimates, or safety claims do **not** survive appropriate controls. My background combines doctoral research with operational analytics experience in airline flight operations.
